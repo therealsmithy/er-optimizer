@@ -85,7 +85,7 @@ names(armors)[names(armors) == 'type_chest armor'] <- 'type_chest'
 names(armors)[names(armors) == 'type_leg armor'] <- 'type_leg'
 ```
 
-The last "wrangling" I need to do is creating some objects that hold important numbers to my optimization. This means different potential player weights and our base weapon weight. I chose the base equip load based on a normal end game endurance level. I chose the weapon that I did because it was around the average weight of all weapons and it is something that you would probably be carrying around the end of the game. I also made the three different equip loads for each different roll type.
+The last "wrangling" I need to do is creating some objects that hold important numbers to my optimization. This means different potential player weights and our base weapon weight. I chose the base equip load based on a normal end game endurance level. I chose the weapon that I did because it was around the average weight of all weapons and it is something that you would probably be carrying around the end of the game. I also made the three different equip loads for each different roll type. Note: this weight does not include any talismans you may be wearing, just the weapon weight and armor weight.
 ```{r}
 base_EL <- 84.1
 
@@ -258,4 +258,4 @@ hr_vs_hol
 
 ## Discussion
 <br>
-When playing a video game that takes some over 100 hours to complete in full, there are plenty of decisions to be made. If you are making these decisions without any guidance, the choices you make may make your life a lot harder. I think that my findings are interesting and significant because they can be applied to pretty much any situation the game puts you in to. As long as you are able to find the armor it recommends, you can set yourself up to dominated any encounter if you know what type of damage type you will be facing.
+When playing a video game that takes some over 100 hours to complete in full, there are plenty of decisions to be made. If you are making these decisions without any guidance, the choices you make may make your life a lot harder. I think that my findings are interesting and significant because they can be applied to pretty much any situation the game puts you in to. As long as you are able to find the armor it recommends, you can set yourself up to dominate any encounter if you know what type of damage type you will be facing.
