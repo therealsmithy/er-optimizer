@@ -286,14 +286,13 @@ lr_vs_slash
     ## vs_sla.573      Sorcerer Manchettes   gauntlets    1.1    1.3
     ## vs_sla.683           Zamor Legwraps   leg armor    5.1    6.8
 
-<div class="figure">
-
-<img src="../../../../Downloads/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg" alt="Optimal Armor for : Light Rolling Against Slashing Damage" width="100%" />
-<p class="caption">
-Optimal Armor for : Light Rolling Against Slashing Damage
-</p>
-
-</div>
+<figure>
+<img
+src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg"
+alt="“Optimal Armor for Light Rolling Against Slashing Damage”" />
+<figcaption aria-hidden="true">“Optimal Armor for Light Rolling Against
+Slashing Damage”</figcaption>
+</figure>
 
 <br> Here is the armor set for medium rolling against magic damage.
 
@@ -310,6 +309,14 @@ mr_vs_mag
     ## mag.2621 Azur's Glintstone Robe chest armor    7.1 15.4
     ## mag.561      Preceptor's Gloves   gauntlets    2.1  3.6
     ## mag.663    Preceptor's Trousers   leg armor    3.9  8.3
+
+<figure>
+<img
+src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG"
+alt="“Optimal Armor for Light Rolling Against Slashing Damage”" />
+<figcaption aria-hidden="true">“Optimal Armor for Light Rolling Against
+Slashing Damage”</figcaption>
+</figure>
 
 <div class="figure">
 
@@ -336,6 +343,14 @@ hr_vs_hol
     ## hol.2831       Crucible Tree Armor chest armor   15.5 14.5
     ## hol.5302 Godskin Apostle Bracelets   gauntlets    2.1  3.6
     ## hol.5872        Dryleaf Cuissardes   leg armor    3.1  8.1
+
+<figure>
+<img
+src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG"
+alt="“Optimal Armor for Light Rolling Against Slashing Damage”" />
+<figcaption aria-hidden="true">“Optimal Armor for Light Rolling Against
+Slashing Damage”</figcaption>
+</figure>
 
 <div class="figure">
 
