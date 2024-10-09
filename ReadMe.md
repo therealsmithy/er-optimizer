@@ -119,7 +119,8 @@ based on a normal end game endurance level. I chose the weapon that I
 did because it was around the average weight of all weapons and it is
 something that you would probably be carrying around the end of the
 game. I also made the three different equip loads for each different
-roll type.
+roll type. Note: this weight does not include any talismans you may be wearing,
+just armor and the Rivers of Blood katana.
 
 ``` r
 base_EL <- 84.1
@@ -351,5 +352,5 @@ making these decisions without any guidance, the choices you make may
 make your life a lot harder. I think that my findings are interesting
 and significant because they can be applied to pretty much any situation
 the game puts you in to. As long as you are able to find the armor it
-recommends, you can set yourself up to dominated any encounter if you
+recommends, you can set yourself up to dominate any encounter if you
 know what type of damage type you will be facing.
