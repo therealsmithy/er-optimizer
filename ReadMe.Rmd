@@ -4,7 +4,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, comment = "")
 ```
 
 
@@ -214,9 +214,8 @@ lr_vs_slash <- all_combo_optim_base %>%
 lr_vs_slash
 ```
 
-![](https://github.com/therealsmithy/er-optimizer/blob/main/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG)
+![Optimal Armor for Light Rolling Against Slashing Damage](https://github.com/therealsmithy/er-optimizer/blob/main/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg)
 
-!["Optimal Armor for Light Rolling Against Slashing Damage"](C:/Users/liams/OneDrive/Documents/R Practice/er-optimizer/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg)
 
 ```{r , echo=FALSE, fig.cap="Optimal Armor for : Light Rolling Against Slashing Damage", out.width = '100%'}
 # vs_photo <- 'C:/Users/liams/OneDrive/Documents/R Practice/er-optimizer/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg'
@@ -232,12 +231,13 @@ mr_vs_mag <- all_combo_optim_base %>%
 mr_vs_mag
 ```
 
-!["Optimal Armor for Medium Rolling Against Magic Damage"](C:/Users/liams/OneDrive/Documents/R Practice/er-optimizer/images/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG)
+![Optimal Armor for Medium Rolling Against Magic Damage](https://github.com/therealsmithy/er-optimizer/blob/main/images/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG)
 
 ```{r , echo=FALSE, fig.cap="Optimal Armor for : Medium Rolling Against Magic Damage", out.width = '100%'}
-mag_photo <- 'C:/Users/liams/Downloads/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG'
-knitr::include_graphics(mag_photo)
+# mag_photo <- 'C:/Users/liams/Downloads/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG'
+# knitr::include_graphics(mag_photo)
 ```
+
 <br>
 And here is the armor set for heavy rolling against holy damage, allowing items from the DLC.
 ```{r}
@@ -248,11 +248,11 @@ hr_vs_hol <- all_combo_optim_full %>%
 hr_vs_hol
 ```
 
-!["Optimal Armor for Heavy Rolling Against Holy Damage"](C:/Users/liams/OneDrive/Documents/R Practice/er-optimizer/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG)
+![Optimal Armor for Heavy Rolling Against Holy Damage](https://github.com/therealsmithy/er-optimizer/blob/main/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG)
 
 ```{r , echo=FALSE, fig.cap="Optimal Armor for : Heavy Rolling Against Holy Damage", out.width = '100%'}
-hol_photo <- 'C:/Users/liams/Downloads/059182d5-b899-4bda-8e33-96e1dd28da06.PNG'
-knitr::include_graphics(hol_photo)
+# hol_photo <- 'C:/Users/liams/Downloads/059182d5-b899-4bda-8e33-96e1dd28da06.PNG'
+# knitr::include_graphics(hol_photo)
 ```
 
 

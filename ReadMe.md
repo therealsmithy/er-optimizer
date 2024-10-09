@@ -280,20 +280,18 @@ lr_vs_slash <- all_combo_optim_base %>%
 lr_vs_slash
 ```
 
-    ##                                name        type weight vs_sla
-    ## vs_sla.143       Land of Reeds Helm        helm    3.6    4.8
-    ## vs_sla.344 Marionette Soldier Armor chest armor    8.8   13.5
-    ## vs_sla.573      Sorcerer Manchettes   gauntlets    1.1    1.3
-    ## vs_sla.683           Zamor Legwraps   leg armor    5.1    6.8
-
-![](https://github.com/therealsmithy/er-optimizer/blob/main/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG)
+                                   name        type weight vs_sla
+    vs_sla.143       Land of Reeds Helm        helm    3.6    4.8
+    vs_sla.344 Marionette Soldier Armor chest armor    8.8   13.5
+    vs_sla.573      Sorcerer Manchettes   gauntlets    1.1    1.3
+    vs_sla.683           Zamor Legwraps   leg armor    5.1    6.8
 
 <figure>
 <img
-src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg"
-alt="“Optimal Armor for Light Rolling Against Slashing Damage”" />
-<figcaption aria-hidden="true">“Optimal Armor for Light Rolling Against
-Slashing Damage”</figcaption>
+src="https://github.com/therealsmithy/er-optimizer/blob/main/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg"
+alt="Optimal Armor for Light Rolling Against Slashing Damage" />
+<figcaption aria-hidden="true">Optimal Armor for Light Rolling Against
+Slashing Damage</figcaption>
 </figure>
 
 <br> Here is the armor set for medium rolling against magic damage.
@@ -306,28 +304,19 @@ mr_vs_mag <- all_combo_optim_base %>%
 mr_vs_mag
 ```
 
-    ##                            name        type weight  mag
-    ## mag.1631         Nox Mirrorhelm        helm    7.5  6.7
-    ## mag.2621 Azur's Glintstone Robe chest armor    7.1 15.4
-    ## mag.561      Preceptor's Gloves   gauntlets    2.1  3.6
-    ## mag.663    Preceptor's Trousers   leg armor    3.9  8.3
+                               name        type weight  mag
+    mag.1631         Nox Mirrorhelm        helm    7.5  6.7
+    mag.2621 Azur's Glintstone Robe chest armor    7.1 15.4
+    mag.561      Preceptor's Gloves   gauntlets    2.1  3.6
+    mag.663    Preceptor's Trousers   leg armor    3.9  8.3
 
 <figure>
 <img
-src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG"
-alt="“Optimal Armor for Medium Rolling Against Magic Damage”" />
-<figcaption aria-hidden="true">“Optimal Armor for Medium Rolling Against
-Magic Damage”</figcaption>
+src="https://github.com/therealsmithy/er-optimizer/blob/main/images/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG"
+alt="Optimal Armor for Medium Rolling Against Magic Damage" />
+<figcaption aria-hidden="true">Optimal Armor for Medium Rolling Against
+Magic Damage</figcaption>
 </figure>
-
-<div class="figure">
-
-<img src="../../../../Downloads/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG" alt="Optimal Armor for : Medium Rolling Against Magic Damage" width="100%" />
-<p class="caption">
-Optimal Armor for : Medium Rolling Against Magic Damage
-</p>
-
-</div>
 
 <br> And here is the armor set for heavy rolling against holy damage,
 allowing items from the DLC.
@@ -340,28 +329,19 @@ hr_vs_hol <- all_combo_optim_full %>%
 hr_vs_hol
 ```
 
-    ##                               name        type weight  hol
-    ## hol.1182                 Greathood        helm    5.1  6.2
-    ## hol.2831       Crucible Tree Armor chest armor   15.5 14.5
-    ## hol.5302 Godskin Apostle Bracelets   gauntlets    2.1  3.6
-    ## hol.5872        Dryleaf Cuissardes   leg armor    3.1  8.1
+                                  name        type weight  hol
+    hol.1182                 Greathood        helm    5.1  6.2
+    hol.2831       Crucible Tree Armor chest armor   15.5 14.5
+    hol.5302 Godskin Apostle Bracelets   gauntlets    2.1  3.6
+    hol.5872        Dryleaf Cuissardes   leg armor    3.1  8.1
 
 <figure>
 <img
-src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG"
-alt="“Optimal Armor for Heavy Rolling Against Holy Damage”" />
-<figcaption aria-hidden="true">“Optimal Armor for Heavy Rolling Against
-Holy Damage”</figcaption>
+src="https://github.com/therealsmithy/er-optimizer/blob/main/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG"
+alt="Optimal Armor for Heavy Rolling Against Holy Damage" />
+<figcaption aria-hidden="true">Optimal Armor for Heavy Rolling Against
+Holy Damage</figcaption>
 </figure>
-
-<div class="figure">
-
-<img src="../../../../Downloads/059182d5-b899-4bda-8e33-96e1dd28da06.PNG" alt="Optimal Armor for : Heavy Rolling Against Holy Damage" width="100%" />
-<p class="caption">
-Optimal Armor for : Heavy Rolling Against Holy Damage
-</p>
-
-</div>
 
 ## Discussion
 
