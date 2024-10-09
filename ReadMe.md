@@ -286,6 +286,8 @@ lr_vs_slash
     ## vs_sla.573      Sorcerer Manchettes   gauntlets    1.1    1.3
     ## vs_sla.683           Zamor Legwraps   leg armor    5.1    6.8
 
+![](https://github.com/therealsmithy/er-optimizer/blob/main/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG)
+
 <figure>
 <img
 src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/e1b99d2f-d2bb-472c-94dd-6df002fae08d.jpg"
@@ -313,9 +315,9 @@ mr_vs_mag
 <figure>
 <img
 src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/5dad67e0-41be-4f68-bf22-3fcc1748d41b.PNG"
-alt="“Optimal Armor for Light Rolling Against Slashing Damage”" />
-<figcaption aria-hidden="true">“Optimal Armor for Light Rolling Against
-Slashing Damage”</figcaption>
+alt="“Optimal Armor for Medium Rolling Against Magic Damage”" />
+<figcaption aria-hidden="true">“Optimal Armor for Medium Rolling Against
+Magic Damage”</figcaption>
 </figure>
 
 <div class="figure">
@@ -347,9 +349,9 @@ hr_vs_hol
 <figure>
 <img
 src="C:/Users/liams/OneDrive/Documents/R%20Practice/er-optimizer/images/059182d5-b899-4bda-8e33-96e1dd28da06.PNG"
-alt="“Optimal Armor for Light Rolling Against Slashing Damage”" />
-<figcaption aria-hidden="true">“Optimal Armor for Light Rolling Against
-Slashing Damage”</figcaption>
+alt="“Optimal Armor for Heavy Rolling Against Holy Damage”" />
+<figcaption aria-hidden="true">“Optimal Armor for Heavy Rolling Against
+Holy Damage”</figcaption>
 </figure>
 
 <div class="figure">
